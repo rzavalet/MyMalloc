@@ -1,6 +1,6 @@
 # A simple memory allocator
 
-![Build Passing](https://github.com/github/docs/actions/workflows/manual.yml/badge.svg)
+![Build Passing](https://github.com/rzavalet/MyMalloc/actions/workflows/manual.yml/badge.svg)
 
 This is my take on creating a simple allocator.
 
