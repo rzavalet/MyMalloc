@@ -20,4 +20,4 @@ jobs:
     # Runs a single command using the runners shell
     - name: compile
       #run: echo "Hello ${{ inputs.name }}"
-      run: sh ../build.sh
+      run: sh build.sh
